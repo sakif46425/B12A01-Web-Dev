@@ -15,7 +15,7 @@
 }
 
 .back-bg{
-    background-image: url('/Assets/Images/Hero-bg.png')
+    background-image: url('../Assets/Images/Hero-bg.png')
     
 
 
@@ -73,7 +73,7 @@ button{
 
 .btn-1:hover{
     background:yellowgreen
-    
+
     
 
 }
