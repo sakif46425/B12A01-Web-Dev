@@ -126,9 +126,48 @@ img{
     
     border: none;
     border-radius: 48px;
-    margin: 116px 159px 116px 0px;
-    width: 403px;
-    height: 328px;
+  
+}
 
+.Productive-user{
+    border: none;
+    border-radius: 24px;
+    padding: 50px 80px;
+    margin: 116px 159px 137px 141px;
+    background-color: rgba(78, 71, 255, 0.1);
 
+}
+
+.Productive-user-container{
+    margin: 50px 142px;
+    gap: 40px;
+    justify-content: center;
+    text-align: center;
+}
+
+.Productive-user-title{
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+    margin: 50px 142px 40px;
+}
+
+.Productive-user-sub-title-serial{
+    margin: 40px 142px 50px;
+    display: flex;
+    justify-content: center;
+    column-gap: 158px;
+    
+}
+
+.sub-title{
+    font-weight: bold;
+    font-size: 80px;
+
+}
+
+.para{
+    font-weight: normal;
+    color: #000000;
+    
 }
