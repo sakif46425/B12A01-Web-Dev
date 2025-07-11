@@ -184,6 +184,7 @@ img{
 .Touch{
     border: none;
     margin: 92.23px 150px 14px 150px;
+    background-color: #F5F8FF;
 
 }
 
@@ -302,4 +303,40 @@ border-radius: 10px;
 
     color: #4E47FF;
 }
+.feedback{
+    background-color: #F5F8FF;
+}
 
+.card{
+    display: flex;
+    justify-content: space-between
+    
+    
+}
+
+#feedback-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 42px;
+    
+}
+
+.Card-1, .Card-2, .Card-3{
+    background-color:#FFFFFF;
+    padding: 24px;
+    border-radius: 14px;
+    margin-right: 20px;
+    margin-bottom: 137px;
+
+
+}
+
+.review-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 15px;
+    
+    
+    
+}
