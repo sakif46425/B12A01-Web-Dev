@@ -251,7 +251,55 @@ border-radius: 10px;
 }
 
 
+.footer-title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #4E47FF;
+    font-weight:900px;
+    font-size: 100px;
+    line-height: 1;
+    margin: 104px 120px 56px;
+}
 
+.footer-sub-title{
+    justify-content: center;
+    font-weight: 400px;
+    font-size: 16px;
+    color: #8987A1;
+    line-height: 1;
+    
 
+}
+.footer-section{
+    background-color:#F5F8FF ;
+}
 
+.footer-container{
+    margin: 104px 455px;
+    position: static;
+    display: flex;
+    flex-direction: column;
+    column-gap: none;
+    line-height: 1;
+  
+
+}
+
+.footer-last, a{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    color: #8987A1;
+    font-weight: 400px;
+    font-size: 16px;
+    text-decoration: none;
+    text-justify: auto;
+    
+}
+
+.footer-last :hover{
+
+    color: #4E47FF;
+}
 
