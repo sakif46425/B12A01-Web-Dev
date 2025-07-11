@@ -340,3 +340,25 @@ border-radius: 10px;
     
     
 }
+
+.focus-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    column-gap: 20px;
+    justify-items: center;
+   
+
+}
+
+.focus{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+
+}
+
+.img{
+    top: 250px;
+}
